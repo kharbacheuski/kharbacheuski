@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm <br>Kiryl Harbacheuski!</h1>
 
-<!--
-**kharbacheuski/kharbacheuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏻‍♂️ About me
+* ⚛️  I'm frontend developer
+* 🛠️  Three years of commercial experience
+* 🌍  Based in Minsk, Belarus 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack:
+
+<div >
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,redux,html,css,sass,materialui,webpack,vite,git,docker,figma,mysql" />
+</div>
+
+## 🎓 Education
+
+#### 🌐 Belarusian State University of Informatics and Radioelectronics
+#### 💻 Computing Machines, Systems, and Networks
+
+## 🔗 Connect:
+
+<div>
+    <a href="https://www.instagram.com/k.harbacheuski/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/kiryl-harbacheuski-293b42243/" target="blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>    
+    <a href="mailto:k.harbacheuski@gmail.com" target="blank">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>  
+</div> 
