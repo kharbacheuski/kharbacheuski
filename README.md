@@ -1,5 +1,3 @@
-<h1 align="center">Hi👋, I'm <br>Kiryl Harbacheuski!</h1>
-
 ## 🙋🏻‍♂️ About me
 * ⚛️  I'm frontend developer
 * 🛠️  Three years of commercial experience
@@ -7,7 +5,6 @@
 
 
 ## ⚙️ Stack:
-
 <div >
     <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,redux,html,css,sass,materialui,webpack,vite,git,docker,figma,mysql" />
 </div>
